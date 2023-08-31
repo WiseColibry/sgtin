@@ -2,7 +2,7 @@
 
 The goal of this package is to implement the  EPC schema to encode a GTIN is the sgtin which consists of the GTIN plus a unique product or serial number and few more things from Authentic Barcodes Powered by GS1 Standards - https://www.gs1us.org/
 
-##Getting started 
+Getting started 
 
 First of all,  improving my go lang knowledge, but this package is going to have a long support 
 
